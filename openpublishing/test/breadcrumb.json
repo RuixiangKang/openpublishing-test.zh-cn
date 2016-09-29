@@ -5,12 +5,12 @@
 		"children" : [{
 				"href" : "/openpublishing/test/",
 				"homepage" : "/openpublishing/test/index",
-				"toc_title" : "Openpublishing Test",
+				"toc_title" : "Openpublishing 测试",
 				"level" : 2,
 				"children" : [{
 						"href" : "/openpublishing/test/reference/",
 						"homepage" : "/openpublishing/test/reference/",
-						"toc_title" : "reference",
+						"toc_title" : "参考",
 						"level" : 3
 					}
 				]
