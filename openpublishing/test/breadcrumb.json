@@ -1,0 +1,21 @@
+[{
+		"toc_title" : "文档",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "/openpublishing/test/",
+				"homepage" : "/openpublishing/test/index",
+				"toc_title" : "Openpublishing 测试",
+				"level" : 2,
+				"children" : [{
+						"href" : "/openpublishing/test/reference/",
+						"homepage" : "/openpublishing/test/reference/",
+						"toc_title" : "参考",
+						"level" : 3
+					}
+				]
+			}
+		]
+	}
+]
+
