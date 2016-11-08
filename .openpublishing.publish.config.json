@@ -57,7 +57,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "op",
       "template_folder": "_themes.OPS"
     },
     {
@@ -72,7 +72,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "op",
       "template_folder": "_themes.MSDN.Modern"
     },
     {
@@ -88,7 +88,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
+      "template_folder": "_themes.VS.UHF"
     }
   ],
   "notification_subscribers": [
@@ -111,6 +111,12 @@
         "docs_release_e2e": "ops_release",
         "docs_hotfix_e2e": "ops_hotfix"
       }
+    },
+    {
+      "path_to_root": "_themes.VS.UHF",
+      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf.zh-cn",
+      "branch": "master",
+      "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.OPS",
