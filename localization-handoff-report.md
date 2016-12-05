@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\conceptual\ui-components.md](https://github.com/Microsoft/openpublishing-test/blob/1d8365610881bf86605b7a1a9bac1c84bcfe58f8/openpublishing/test/conceptual/ui-components.md) | HandedOffSuccess | [Details](#56b6f173da3639510999bf742b343461793e0a2051)
 
 ## Item Details
-##### <a name='56b6f173da3639510999bf742b343461793e0a2051'></a> Source: [openpublishing\test\conceptual\ui-components.md](https://github.com/Microsoft/openpublishing-test/blob/1d8365610881bf86605b7a1a9bac1c84bcfe58f8/openpublishing/test/conceptual/ui-components.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/5eb8bdd5937441bf3a049ebfa5d57a1383d85eec/ol-handoff/openpublish/openpublishing-test.zh-cn/master/ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.zh-cn.xlf)
-* Handoff Datetime: 2016-12-05 11:21:01
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [openpublishing\test\conceptual\ui-components.md](https://github.com/openpublish/openpublishing-test.zh-cn/blob/945925eada2bc4bef914be2ad69be2ec7ee5ae81/openpublishing/test/conceptual/ui-components.md)
-* Current Handback File: [ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.zh-cn.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/08b0eb2d24adbe2ed3f7480575d1ec14716514c1/ol-handback/openpublish/openpublishing-test.zh-cn/master/ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.zh-cn.xlf)
-* Current Handback Datetime: 2016-06-21 17:49:33
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
