@@ -1,42 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\restapi\azure\cognitiveservices\overwrite.md](https://github.com/Microsoft/openpublishing-test/blob/0cf14c2b62ea804181487d5348dc2dda4c89b80e/openpublishing/test/restapi/azure/cognitiveservices/overwrite.md) | HandedOffSuccess | [Details](#3d86747f2905a9e70f401a0ce9e5c382a82e0a0e90)
- [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/0cf14c2b62ea804181487d5348dc2dda4c89b80e/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa130)
 
 ## Item Details
-##### <a name='3d86747f2905a9e70f401a0ce9e5c382a82e0a0e90'></a> Source: [openpublishing\test\restapi\azure\cognitiveservices\overwrite.md](https://github.com/Microsoft/openpublishing-test/blob/0cf14c2b62ea804181487d5348dc2dda4c89b80e/openpublishing/test/restapi/azure/cognitiveservices/overwrite.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [overwrite.450c0755bfb2856043db78f1a576d214a3554fa1.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/725b12a97b8ab1c7e9637b84facff60827cc44bb/ol-handoff/openpublish/openpublishing-test.zh-cn/master/overwrite.450c0755bfb2856043db78f1a576d214a3554fa1.zh-cn.xlf)
-* Handoff Datetime: 2016-12-07 09:29:50
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa130'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/0cf14c2b62ea804181487d5348dc2dda4c89b80e/openpublishing/test/TOC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/725b12a97b8ab1c7e9637b84facff60827cc44bb/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
-* Handoff Datetime: 2016-12-07 09:29:50
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [openpublishing\test\TOC.md](https://github.com/openpublish/openpublishing-test.zh-cn/blob/945925eada2bc4bef914be2ad69be2ec7ee5ae81/openpublishing/test/TOC.md)
-* Current Handback File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/08b0eb2d24adbe2ed3f7480575d1ec14716514c1/ol-handback/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
-* Current Handback Datetime: 2016-06-21 17:49:33
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
