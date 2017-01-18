@@ -16,7 +16,7 @@ ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
 ms.author: 5f6e9ed0-302d-496f-873c-7a2b94e50410
 ---
 # 安装 ATA
-若要获取 ATA 部署、 配置，并且正在运行所需的步骤如下。
+若要获取 ATA 部署、 配置，并且正在运行所需的步骤如下 [!INCLUDE[ATA](./token/ATA.md)]。
 
 若要配置 ATA，请按照下列步骤 ︰
 
