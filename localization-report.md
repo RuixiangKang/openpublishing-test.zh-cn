@@ -104,76 +104,76 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.gitignore) | Ignored | [Details](#021360ae8686f23ff515ba167dfcd810a14a8f580)
- [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.localization-config) | Ignored | [Details](#fd098fed00dd7b76db38ffa0f643797a4345097f1)
- [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.openpublishing.build.ps1) | Ignored | [Details](#543ad6a2f8038238cc5552bc8accd89176f3e9972)
- [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.openpublishing.publish.config.json) | Ignored | [Details](#2b5140e1ce51a18c7ec84d27162d15ad52fdeec53)
- [LICENSE](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/LICENSE) | Ignored | [Details](#549d7775f08d6d4375052221eb41d7a048cb904b4)
- [LICENSE-CODE](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/LICENSE-CODE) | Ignored | [Details](#c75814379854cf0de2911449fca8c9138520f1405)
- [openpublishing\azure-docs-pr\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/docfx.json) | Ignored | [Details](#6e032bd11f5b1c90fd4f362d144de464331585926)
- [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/abtesting/abtesting-flow.pptx) | Ignored | [Details](#abfc6c3fc0feb7118c319e3ab8ccb3de2a78e08311)
- [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/abtesting/iceberg.jpg.meta) | Ignored | [Details](#0d23558e222c5d26a6f04258b15b1598c71f36b217)
- [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/breadcrumb.json) | Ignored | [Details](#a8fc4a2f073e7d776a3e04734ba08e9d66c7b7f040)
- [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/docfx.json) | Ignored | [Details](#f44f12aa6ac20af99c472246d81b08f745d008e354)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml) | Ignored | [Details](#8efa248694b51fbba64dc7a90ecd2487e240161376)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml) | Ignored | [Details](#91ccc0797e71ef0049087876fd39a0a5e68d1ac977)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml) | Ignored | [Details](#9aa2daa4d85889612e0b2925c0b3b961be9b4fa278)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml) | Ignored | [Details](#f8ae6d14f40566d9521582a316a102d6c948fabc79)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml) | Ignored | [Details](#1ae5de1f75b377918c66f267e56b23ea5b8b65b080)
- [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.Action.yml) | Ignored | [Details](#a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0281)
- [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.Linq.Expressions.Expression.yml) | Ignored | [Details](#9a0d3bb5c263492b69254bf48bcb16d8fddc3af982)
- [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.String.yml) | Ignored | [Details](#b737e43e31b6038811a8f7d5faa55e887c1f44fe83)
- [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/toc.yml) | Ignored | [Details](#3267f5af4ee17fcd396ee2754d3530e3497bff6184)
- [openpublishing\test\restapi\azure\account\Account.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/account/Account.json) | Ignored | [Details](#05c59541a4f0506af0c8ee115609cffacb049fd785)
- [openpublishing\test\restapi\azure\authorization\ClassicAdministrators.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/ClassicAdministrators.json) | Ignored | [Details](#8fcd13d6b719949f3edc2d94a21e57e16357a08786)
- [openpublishing\test\restapi\azure\authorization\Permissions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/Permissions.json) | Ignored | [Details](#7ec61c43040710ffffefa0c3d7a9e59fd29bea1987)
- [openpublishing\test\restapi\azure\authorization\ProviderOperationsMetadata.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/ProviderOperationsMetadata.json) | Ignored | [Details](#1bf49b9ac98bf22baf959c9fd45d94ddf183db5e88)
- [openpublishing\test\restapi\azure\authorization\RoleAssignments.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/RoleAssignments.json) | Ignored | [Details](#5609f30b266d1c5029e9a1b9412d77c00da7c90d89)
- [openpublishing\test\restapi\azure\authorization\RoleDefinitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/RoleDefinitions.json) | Ignored | [Details](#de74976b1cceec4488cb5957978a99ab2635117690)
- [openpublishing\test\restapi\azure\cognitiveservices\CognitiveServicesAccounts.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/cognitiveservices/CognitiveServicesAccounts.json) | Ignored | [Details](#3320346e4ca275f2e1da8615856ec8984dd10c5f91)
- [openpublishing\test\restapi\azure\network\CheckDnsNameAvailability.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/network/CheckDnsNameAvailability.json) | Ignored | [Details](#6549b4c9248476cb449247b41d79cd083dc192f293)
- [openpublishing\test\restapi\azure\redis\Redis.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/redis/Redis.json) | Ignored | [Details](#c86940e45137fef56fd48dc0fb0ef2a836de048094)
- [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/contacts_swagger2.json) | Ignored | [Details](#4fb306e4e0242f2cc8e12886bc62daf81498ed5c96)
- [openpublishing\test\swagger\_data\builds\DELETE__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/DELETE__build_builds__buildId_.json) | Ignored | [Details](#7bdc353158c9bf01364c14845670c7f9f1c030c2100)
- [openpublishing\test\swagger\_data\builds\DELETE__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/DELETE__build_builds__knownBuildId__tags_myTag.json) | Ignored | [Details](#ef48739f6907a92dd4ce230cc822f8dc03368df5101)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId_.json) | Ignored | [Details](#235ad822b91698fd927926c1316e55d5aea65b10102)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__artifacts.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__artifacts.json) | Ignored | [Details](#3384e0bb21394191a03efc87b164e16d348b5aac103)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__changes.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__changes.json) | Ignored | [Details](#89e02e1271c7b0c20855ac06d58626c2ab2d8b93104)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__logs.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__logs.json) | Ignored | [Details](#b9106456d6dab11130237c131d984387ffb0be22105)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__tags.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__tags.json) | Ignored | [Details](#7e4fb077ba310b6b33fb53df7bf2191dd26e08be106)
- [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__timeline.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__timeline.json) | Ignored | [Details](#49534daafa66104b270d494ebb9655a791a5f647107)
- [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json) | Ignored | [Details](#a7e4afe031de90a473f06c2bbbf9fef135995945108)
- [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json) | Ignored | [Details](#37abe3ae80bad5b663314fabc8b5e50d08cd0165109)
- [openpublishing\test\swagger\_data\builds\GET__build_builds_tagFilters-myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_tagFilters-myTag.json) | Ignored | [Details](#336c7a1bd2532238709daf8e872a48f62f162fba110)
- [openpublishing\test\swagger\_data\builds\GET__build_tags.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_tags.json) | Ignored | [Details](#20636ef518e2bbff94d447e599b4feb8b61e1bed111)
- [openpublishing\test\swagger\_data\builds\PATCH__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/PATCH__build_builds__buildId_.json) | Ignored | [Details](#52722fb89e63ca8557f98bf0d63cafd68fc42fbb112)
- [openpublishing\test\swagger\_data\builds\POST__build_builds.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/POST__build_builds.json) | Ignored | [Details](#c03a380a407478daebd6a557526cc3a1a8f8d7ea113)
- [openpublishing\test\swagger\_data\builds\POST__build_builds__knownBuildId__workitems.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/POST__build_builds__knownBuildId__workitems.json) | Ignored | [Details](#1ceece2092dc2ad075e6402c34ac4825df110119114)
- [openpublishing\test\swagger\_data\builds\PUT__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/PUT__build_builds__knownBuildId__tags_myTag.json) | Ignored | [Details](#d717ced9cc454da8a7b9bb7792e32100b6f1778b115)
- [openpublishing\test\swagger\_data\definitions\DELETE__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/DELETE__build_definitions__definitionId_.json) | Ignored | [Details](#43ca3750b855c00eeca32ac969ce40260c30bb76116)
- [openpublishing\test\swagger\_data\definitions\GET__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions.json) | Ignored | [Details](#9528730853a51558de0a3cb5c4a7f27475d3e450117)
- [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId_.json) | Ignored | [Details](#5b804b1c42216ac253d1fb2b52f8de4c2ca3466a118)
- [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revision-_revision_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revision-_revision_.json) | Ignored | [Details](#a90b3342f8ffb895a697b34b5786a24e3bf9124a119)
- [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revisions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revisions.json) | Ignored | [Details](#7f33d2bafa5f2351e784fa77f7496596d90a0fe2120)
- [openpublishing\test\swagger\_data\definitions\GET__build_options.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_options.json) | Ignored | [Details](#2096c80afe4ecd1c8eafe88c9d7cd6fe6b0df22f121)
- [openpublishing\test\swagger\_data\definitions\POST__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/POST__build_definitions.json) | Ignored | [Details](#59260f8a090802e53e254743e29c9e1a5cb68772122)
- [openpublishing\test\swagger\_data\definitions\PUT__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/PUT__build_definitions__definitionId_.json) | Ignored | [Details](#0d896a94e8e67de6e6e5528359475eb2f3b0eadd123)
- [openpublishing\test\swagger\_data\definitionTemplates\DELETE__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/DELETE__build_definitions_templates__templateId_.json) | Ignored | [Details](#c2e863b0ad24f97a6196f914b3cc9d859d502557124)
- [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates.json) | Ignored | [Details](#5f259f9642dbdc914d91e857de89a1ce6b9d767e125)
- [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates__templateId_.json) | Ignored | [Details](#863f699f835ad0c82a6750c381cf5392db731bee126)
- [openpublishing\test\swagger\_data\definitionTemplates\PUT__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/PUT__build_definitions_templates__templateId_.json) | Ignored | [Details](#d4bec81fdc08d1b5c689ed07a03afff450ae0da7127)
- [openpublishing\test\swagger\_data\queues\GET__build_controllers__controllerId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_controllers__controllerId_.json) | Ignored | [Details](#7fd93a2a53c96da5b4dd4009b6e7e31897cada6d128)
- [openpublishing\test\swagger\_data\queues\GET__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_queues.json) | Ignored | [Details](#707081d67bb2140dd5daa1d5471d6f437f97acfa129)
- [openpublishing\test\swagger\_data\queues\GET__build_queues__queueId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_queues__queueId_.json) | Ignored | [Details](#39ff74a8a5f5428c16e2e8fc0a0b3b0c754b094f130)
- [openpublishing\test\swagger\_data\queues\POST__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/POST__build_queues.json) | Ignored | [Details](#61fc789a01c45abfbd76f70110e59447fc9af269131)
- [openpublishing\test-reference\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test-reference/docfx.json) | Ignored | [Details](#ddffaaa647155d9ddc921e0242b65cb6af1f09349)
- [RawModelContentTemplate\ManagedReference.raw.model.json.js](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/RawModelContentTemplate/ManagedReference.raw.model.json.js) | Ignored | [Details](#e0c784e2c6061a5150f294bf69b83eb1cbff6dac135)
- [RawModelContentTemplate\ManagedReference.raw.model.json.tmpl](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/RawModelContentTemplate/ManagedReference.raw.model.json.tmpl) | Ignored | [Details](#8621dca17d843c71e33dbc08412cd09e66ebeac8136)
- [README.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/README.md) | Ignored | [Details](#d479c01597909ce087df82416d35b5e61fc57b09137)
- [scripts\generateYamlFromSourceCode.ps1](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/scripts/generateYamlFromSourceCode.ps1) | Ignored | [Details](#dc759c477474e1f783be0e5a875dda8319664d93138)
+ [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.gitignore) | Ignored | [Details](#021360ae8686f23ff515ba167dfcd810a14a8f580)
+ [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.localization-config) | Ignored | [Details](#fd098fed00dd7b76db38ffa0f643797a4345097f1)
+ [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.openpublishing.build.ps1) | Ignored | [Details](#543ad6a2f8038238cc5552bc8accd89176f3e9972)
+ [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.openpublishing.publish.config.json) | Ignored | [Details](#2ad925c6059dc2089cbea7ead5d720febc7a46f73)
+ [LICENSE](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/LICENSE) | Ignored | [Details](#549d7775f08d6d4375052221eb41d7a048cb904b4)
+ [LICENSE-CODE](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/LICENSE-CODE) | Ignored | [Details](#c75814379854cf0de2911449fca8c9138520f1405)
+ [openpublishing\azure-docs-pr\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/azure-docs-pr/docfx.json) | Ignored | [Details](#6e032bd11f5b1c90fd4f362d144de464331585926)
+ [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/abtesting/abtesting-flow.pptx) | Ignored | [Details](#abfc6c3fc0feb7118c319e3ab8ccb3de2a78e08311)
+ [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/abtesting/iceberg.jpg.meta) | Ignored | [Details](#0d23558e222c5d26a6f04258b15b1598c71f36b217)
+ [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/breadcrumb.json) | Ignored | [Details](#a8fc4a2f073e7d776a3e04734ba08e9d66c7b7f040)
+ [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/docfx.json) | Ignored | [Details](#f44f12aa6ac20af99c472246d81b08f745d008e354)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml) | Ignored | [Details](#8efa248694b51fbba64dc7a90ecd2487e240161376)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml) | Ignored | [Details](#91ccc0797e71ef0049087876fd39a0a5e68d1ac977)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml) | Ignored | [Details](#9aa2daa4d85889612e0b2925c0b3b961be9b4fa278)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml) | Ignored | [Details](#f8ae6d14f40566d9521582a316a102d6c948fabc79)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml) | Ignored | [Details](#1ae5de1f75b377918c66f267e56b23ea5b8b65b080)
+ [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.Action.yml) | Ignored | [Details](#a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0281)
+ [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.Linq.Expressions.Expression.yml) | Ignored | [Details](#9a0d3bb5c263492b69254bf48bcb16d8fddc3af982)
+ [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.String.yml) | Ignored | [Details](#b737e43e31b6038811a8f7d5faa55e887c1f44fe83)
+ [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/toc.yml) | Ignored | [Details](#3267f5af4ee17fcd396ee2754d3530e3497bff6184)
+ [openpublishing\test\restapi\azure\account\Account.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/account/Account.json) | Ignored | [Details](#05c59541a4f0506af0c8ee115609cffacb049fd785)
+ [openpublishing\test\restapi\azure\authorization\ClassicAdministrators.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/ClassicAdministrators.json) | Ignored | [Details](#8fcd13d6b719949f3edc2d94a21e57e16357a08786)
+ [openpublishing\test\restapi\azure\authorization\Permissions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/Permissions.json) | Ignored | [Details](#7ec61c43040710ffffefa0c3d7a9e59fd29bea1987)
+ [openpublishing\test\restapi\azure\authorization\ProviderOperationsMetadata.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/ProviderOperationsMetadata.json) | Ignored | [Details](#1bf49b9ac98bf22baf959c9fd45d94ddf183db5e88)
+ [openpublishing\test\restapi\azure\authorization\RoleAssignments.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/RoleAssignments.json) | Ignored | [Details](#5609f30b266d1c5029e9a1b9412d77c00da7c90d89)
+ [openpublishing\test\restapi\azure\authorization\RoleDefinitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/RoleDefinitions.json) | Ignored | [Details](#de74976b1cceec4488cb5957978a99ab2635117690)
+ [openpublishing\test\restapi\azure\cognitiveservices\CognitiveServicesAccounts.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/cognitiveservices/CognitiveServicesAccounts.json) | Ignored | [Details](#3320346e4ca275f2e1da8615856ec8984dd10c5f91)
+ [openpublishing\test\restapi\azure\network\CheckDnsNameAvailability.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/network/CheckDnsNameAvailability.json) | Ignored | [Details](#6549b4c9248476cb449247b41d79cd083dc192f293)
+ [openpublishing\test\restapi\azure\redis\Redis.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/redis/Redis.json) | Ignored | [Details](#c86940e45137fef56fd48dc0fb0ef2a836de048094)
+ [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/contacts_swagger2.json) | Ignored | [Details](#4fb306e4e0242f2cc8e12886bc62daf81498ed5c96)
+ [openpublishing\test\swagger\_data\builds\DELETE__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/DELETE__build_builds__buildId_.json) | Ignored | [Details](#7bdc353158c9bf01364c14845670c7f9f1c030c2100)
+ [openpublishing\test\swagger\_data\builds\DELETE__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/DELETE__build_builds__knownBuildId__tags_myTag.json) | Ignored | [Details](#ef48739f6907a92dd4ce230cc822f8dc03368df5101)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId_.json) | Ignored | [Details](#235ad822b91698fd927926c1316e55d5aea65b10102)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__artifacts.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__artifacts.json) | Ignored | [Details](#3384e0bb21394191a03efc87b164e16d348b5aac103)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__changes.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__changes.json) | Ignored | [Details](#89e02e1271c7b0c20855ac06d58626c2ab2d8b93104)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__logs.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__logs.json) | Ignored | [Details](#b9106456d6dab11130237c131d984387ffb0be22105)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__tags.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__tags.json) | Ignored | [Details](#7e4fb077ba310b6b33fb53df7bf2191dd26e08be106)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__timeline.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__timeline.json) | Ignored | [Details](#49534daafa66104b270d494ebb9655a791a5f647107)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json) | Ignored | [Details](#a7e4afe031de90a473f06c2bbbf9fef135995945108)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json) | Ignored | [Details](#37abe3ae80bad5b663314fabc8b5e50d08cd0165109)
+ [openpublishing\test\swagger\_data\builds\GET__build_builds_tagFilters-myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_tagFilters-myTag.json) | Ignored | [Details](#336c7a1bd2532238709daf8e872a48f62f162fba110)
+ [openpublishing\test\swagger\_data\builds\GET__build_tags.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_tags.json) | Ignored | [Details](#20636ef518e2bbff94d447e599b4feb8b61e1bed111)
+ [openpublishing\test\swagger\_data\builds\PATCH__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/PATCH__build_builds__buildId_.json) | Ignored | [Details](#52722fb89e63ca8557f98bf0d63cafd68fc42fbb112)
+ [openpublishing\test\swagger\_data\builds\POST__build_builds.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/POST__build_builds.json) | Ignored | [Details](#c03a380a407478daebd6a557526cc3a1a8f8d7ea113)
+ [openpublishing\test\swagger\_data\builds\POST__build_builds__knownBuildId__workitems.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/POST__build_builds__knownBuildId__workitems.json) | Ignored | [Details](#1ceece2092dc2ad075e6402c34ac4825df110119114)
+ [openpublishing\test\swagger\_data\builds\PUT__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/PUT__build_builds__knownBuildId__tags_myTag.json) | Ignored | [Details](#d717ced9cc454da8a7b9bb7792e32100b6f1778b115)
+ [openpublishing\test\swagger\_data\definitions\DELETE__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/DELETE__build_definitions__definitionId_.json) | Ignored | [Details](#43ca3750b855c00eeca32ac969ce40260c30bb76116)
+ [openpublishing\test\swagger\_data\definitions\GET__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions.json) | Ignored | [Details](#9528730853a51558de0a3cb5c4a7f27475d3e450117)
+ [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId_.json) | Ignored | [Details](#5b804b1c42216ac253d1fb2b52f8de4c2ca3466a118)
+ [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revision-_revision_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revision-_revision_.json) | Ignored | [Details](#a90b3342f8ffb895a697b34b5786a24e3bf9124a119)
+ [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revisions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revisions.json) | Ignored | [Details](#7f33d2bafa5f2351e784fa77f7496596d90a0fe2120)
+ [openpublishing\test\swagger\_data\definitions\GET__build_options.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_options.json) | Ignored | [Details](#2096c80afe4ecd1c8eafe88c9d7cd6fe6b0df22f121)
+ [openpublishing\test\swagger\_data\definitions\POST__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/POST__build_definitions.json) | Ignored | [Details](#59260f8a090802e53e254743e29c9e1a5cb68772122)
+ [openpublishing\test\swagger\_data\definitions\PUT__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/PUT__build_definitions__definitionId_.json) | Ignored | [Details](#0d896a94e8e67de6e6e5528359475eb2f3b0eadd123)
+ [openpublishing\test\swagger\_data\definitionTemplates\DELETE__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/DELETE__build_definitions_templates__templateId_.json) | Ignored | [Details](#c2e863b0ad24f97a6196f914b3cc9d859d502557124)
+ [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates.json) | Ignored | [Details](#5f259f9642dbdc914d91e857de89a1ce6b9d767e125)
+ [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates__templateId_.json) | Ignored | [Details](#863f699f835ad0c82a6750c381cf5392db731bee126)
+ [openpublishing\test\swagger\_data\definitionTemplates\PUT__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/PUT__build_definitions_templates__templateId_.json) | Ignored | [Details](#d4bec81fdc08d1b5c689ed07a03afff450ae0da7127)
+ [openpublishing\test\swagger\_data\queues\GET__build_controllers__controllerId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_controllers__controllerId_.json) | Ignored | [Details](#7fd93a2a53c96da5b4dd4009b6e7e31897cada6d128)
+ [openpublishing\test\swagger\_data\queues\GET__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_queues.json) | Ignored | [Details](#707081d67bb2140dd5daa1d5471d6f437f97acfa129)
+ [openpublishing\test\swagger\_data\queues\GET__build_queues__queueId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_queues__queueId_.json) | Ignored | [Details](#39ff74a8a5f5428c16e2e8fc0a0b3b0c754b094f130)
+ [openpublishing\test\swagger\_data\queues\POST__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/POST__build_queues.json) | Ignored | [Details](#61fc789a01c45abfbd76f70110e59447fc9af269131)
+ [openpublishing\test-reference\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test-reference/docfx.json) | Ignored | [Details](#ddffaaa647155d9ddc921e0242b65cb6af1f09349)
+ [RawModelContentTemplate\ManagedReference.raw.model.json.js](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/RawModelContentTemplate/ManagedReference.raw.model.json.js) | Ignored | [Details](#e0c784e2c6061a5150f294bf69b83eb1cbff6dac135)
+ [RawModelContentTemplate\ManagedReference.raw.model.json.tmpl](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/RawModelContentTemplate/ManagedReference.raw.model.json.tmpl) | Ignored | [Details](#8621dca17d843c71e33dbc08412cd09e66ebeac8136)
+ [README.md](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/README.md) | Ignored | [Details](#d479c01597909ce087df82416d35b5e61fc57b09137)
+ [scripts\generateYamlFromSourceCode.ps1](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/scripts/generateYamlFromSourceCode.ps1) | Ignored | [Details](#dc759c477474e1f783be0e5a875dda8319664d93138)
 
 ## Item Details
-##### <a name='021360ae8686f23ff515ba167dfcd810a14a8f580'></a> Source: [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.gitignore)
+##### <a name='021360ae8686f23ff515ba167dfcd810a14a8f580'></a> Source: [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -187,7 +187,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='fd098fed00dd7b76db38ffa0f643797a4345097f1'></a> Source: [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.localization-config)
+##### <a name='fd098fed00dd7b76db38ffa0f643797a4345097f1'></a> Source: [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -201,7 +201,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='543ad6a2f8038238cc5552bc8accd89176f3e9972'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.openpublishing.build.ps1)
+##### <a name='543ad6a2f8038238cc5552bc8accd89176f3e9972'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.openpublishing.build.ps1)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -215,7 +215,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='2b5140e1ce51a18c7ec84d27162d15ad52fdeec53'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/.openpublishing.publish.config.json)
+##### <a name='2ad925c6059dc2089cbea7ead5d720febc7a46f73'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -229,7 +229,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='549d7775f08d6d4375052221eb41d7a048cb904b4'></a> Source: [LICENSE](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/LICENSE)
+##### <a name='549d7775f08d6d4375052221eb41d7a048cb904b4'></a> Source: [LICENSE](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/LICENSE)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -243,7 +243,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='c75814379854cf0de2911449fca8c9138520f1405'></a> Source: [LICENSE-CODE](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/LICENSE-CODE)
+##### <a name='c75814379854cf0de2911449fca8c9138520f1405'></a> Source: [LICENSE-CODE](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/LICENSE-CODE)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -257,7 +257,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='6e032bd11f5b1c90fd4f362d144de464331585926'></a> Source: [openpublishing\azure-docs-pr\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/docfx.json)
+##### <a name='6e032bd11f5b1c90fd4f362d144de464331585926'></a> Source: [openpublishing\azure-docs-pr\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/azure-docs-pr/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -313,7 +313,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='abfc6c3fc0feb7118c319e3ab8ccb3de2a78e08311'></a> Source: [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/abtesting/abtesting-flow.pptx)
+##### <a name='abfc6c3fc0feb7118c319e3ab8ccb3de2a78e08311'></a> Source: [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/abtesting/abtesting-flow.pptx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -401,7 +401,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='0d23558e222c5d26a6f04258b15b1598c71f36b217'></a> Source: [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/abtesting/iceberg.jpg.meta)
+##### <a name='0d23558e222c5d26a6f04258b15b1598c71f36b217'></a> Source: [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/abtesting/iceberg.jpg.meta)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -756,7 +756,7 @@
 * Current Handback Datetime: 2016-06-21 17:49:33
 * [Back to Top](#report-top)
 
-##### <a name='a8fc4a2f073e7d776a3e04734ba08e9d66c7b7f040'></a> Source: [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/breadcrumb.json)
+##### <a name='a8fc4a2f073e7d776a3e04734ba08e9d66c7b7f040'></a> Source: [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/breadcrumb.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -966,7 +966,7 @@
 * Current Handback Datetime: 2016-06-21 17:49:33
 * [Back to Top](#report-top)
 
-##### <a name='f44f12aa6ac20af99c472246d81b08f745d008e354'></a> Source: [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/docfx.json)
+##### <a name='f44f12aa6ac20af99c472246d81b08f745d008e354'></a> Source: [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1285,7 +1285,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='8efa248694b51fbba64dc7a90ecd2487e240161376'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml)
+##### <a name='8efa248694b51fbba64dc7a90ecd2487e240161376'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1299,7 +1299,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='91ccc0797e71ef0049087876fd39a0a5e68d1ac977'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml)
+##### <a name='91ccc0797e71ef0049087876fd39a0a5e68d1ac977'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1313,7 +1313,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='9aa2daa4d85889612e0b2925c0b3b961be9b4fa278'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml)
+##### <a name='9aa2daa4d85889612e0b2925c0b3b961be9b4fa278'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1327,7 +1327,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='f8ae6d14f40566d9521582a316a102d6c948fabc79'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml)
+##### <a name='f8ae6d14f40566d9521582a316a102d6c948fabc79'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1341,7 +1341,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='1ae5de1f75b377918c66f267e56b23ea5b8b65b080'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
+##### <a name='1ae5de1f75b377918c66f267e56b23ea5b8b65b080'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1355,7 +1355,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0281'></a> Source: [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.Action.yml)
+##### <a name='a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0281'></a> Source: [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.Action.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1369,7 +1369,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='9a0d3bb5c263492b69254bf48bcb16d8fddc3af982'></a> Source: [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.Linq.Expressions.Expression.yml)
+##### <a name='9a0d3bb5c263492b69254bf48bcb16d8fddc3af982'></a> Source: [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.Linq.Expressions.Expression.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1383,7 +1383,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='b737e43e31b6038811a8f7d5faa55e887c1f44fe83'></a> Source: [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/System.String.yml)
+##### <a name='b737e43e31b6038811a8f7d5faa55e887c1f44fe83'></a> Source: [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/System.String.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1397,7 +1397,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='3267f5af4ee17fcd396ee2754d3530e3497bff6184'></a> Source: [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/reference/toc.yml)
+##### <a name='3267f5af4ee17fcd396ee2754d3530e3497bff6184'></a> Source: [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/reference/toc.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1411,7 +1411,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='05c59541a4f0506af0c8ee115609cffacb049fd785'></a> Source: [openpublishing\test\restapi\azure\account\Account.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/account/Account.json)
+##### <a name='05c59541a4f0506af0c8ee115609cffacb049fd785'></a> Source: [openpublishing\test\restapi\azure\account\Account.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/account/Account.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1425,7 +1425,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='8fcd13d6b719949f3edc2d94a21e57e16357a08786'></a> Source: [openpublishing\test\restapi\azure\authorization\ClassicAdministrators.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/ClassicAdministrators.json)
+##### <a name='8fcd13d6b719949f3edc2d94a21e57e16357a08786'></a> Source: [openpublishing\test\restapi\azure\authorization\ClassicAdministrators.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/ClassicAdministrators.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1439,7 +1439,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='7ec61c43040710ffffefa0c3d7a9e59fd29bea1987'></a> Source: [openpublishing\test\restapi\azure\authorization\Permissions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/Permissions.json)
+##### <a name='7ec61c43040710ffffefa0c3d7a9e59fd29bea1987'></a> Source: [openpublishing\test\restapi\azure\authorization\Permissions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/Permissions.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1453,7 +1453,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='1bf49b9ac98bf22baf959c9fd45d94ddf183db5e88'></a> Source: [openpublishing\test\restapi\azure\authorization\ProviderOperationsMetadata.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/ProviderOperationsMetadata.json)
+##### <a name='1bf49b9ac98bf22baf959c9fd45d94ddf183db5e88'></a> Source: [openpublishing\test\restapi\azure\authorization\ProviderOperationsMetadata.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/ProviderOperationsMetadata.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1467,7 +1467,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='5609f30b266d1c5029e9a1b9412d77c00da7c90d89'></a> Source: [openpublishing\test\restapi\azure\authorization\RoleAssignments.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/RoleAssignments.json)
+##### <a name='5609f30b266d1c5029e9a1b9412d77c00da7c90d89'></a> Source: [openpublishing\test\restapi\azure\authorization\RoleAssignments.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/RoleAssignments.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1481,7 +1481,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='de74976b1cceec4488cb5957978a99ab2635117690'></a> Source: [openpublishing\test\restapi\azure\authorization\RoleDefinitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/authorization/RoleDefinitions.json)
+##### <a name='de74976b1cceec4488cb5957978a99ab2635117690'></a> Source: [openpublishing\test\restapi\azure\authorization\RoleDefinitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/authorization/RoleDefinitions.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1495,7 +1495,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='3320346e4ca275f2e1da8615856ec8984dd10c5f91'></a> Source: [openpublishing\test\restapi\azure\cognitiveservices\CognitiveServicesAccounts.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/cognitiveservices/CognitiveServicesAccounts.json)
+##### <a name='3320346e4ca275f2e1da8615856ec8984dd10c5f91'></a> Source: [openpublishing\test\restapi\azure\cognitiveservices\CognitiveServicesAccounts.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/cognitiveservices/CognitiveServicesAccounts.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1523,7 +1523,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='6549b4c9248476cb449247b41d79cd083dc192f293'></a> Source: [openpublishing\test\restapi\azure\network\CheckDnsNameAvailability.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/network/CheckDnsNameAvailability.json)
+##### <a name='6549b4c9248476cb449247b41d79cd083dc192f293'></a> Source: [openpublishing\test\restapi\azure\network\CheckDnsNameAvailability.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/network/CheckDnsNameAvailability.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1537,7 +1537,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='c86940e45137fef56fd48dc0fb0ef2a836de048094'></a> Source: [openpublishing\test\restapi\azure\redis\Redis.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/azure/redis/Redis.json)
+##### <a name='c86940e45137fef56fd48dc0fb0ef2a836de048094'></a> Source: [openpublishing\test\restapi\azure\redis\Redis.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/azure/redis/Redis.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1551,7 +1551,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='4fb306e4e0242f2cc8e12886bc62daf81498ed5c96'></a> Source: [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/restapi/contacts_swagger2.json)
+##### <a name='4fb306e4e0242f2cc8e12886bc62daf81498ed5c96'></a> Source: [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/restapi/contacts_swagger2.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1624,7 +1624,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='7bdc353158c9bf01364c14845670c7f9f1c030c2100'></a> Source: [openpublishing\test\swagger\_data\builds\DELETE__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/DELETE__build_builds__buildId_.json)
+##### <a name='7bdc353158c9bf01364c14845670c7f9f1c030c2100'></a> Source: [openpublishing\test\swagger\_data\builds\DELETE__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/DELETE__build_builds__buildId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1638,7 +1638,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='ef48739f6907a92dd4ce230cc822f8dc03368df5101'></a> Source: [openpublishing\test\swagger\_data\builds\DELETE__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/DELETE__build_builds__knownBuildId__tags_myTag.json)
+##### <a name='ef48739f6907a92dd4ce230cc822f8dc03368df5101'></a> Source: [openpublishing\test\swagger\_data\builds\DELETE__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/DELETE__build_builds__knownBuildId__tags_myTag.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1652,7 +1652,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='235ad822b91698fd927926c1316e55d5aea65b10102'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId_.json)
+##### <a name='235ad822b91698fd927926c1316e55d5aea65b10102'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1666,7 +1666,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='3384e0bb21394191a03efc87b164e16d348b5aac103'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__artifacts.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__artifacts.json)
+##### <a name='3384e0bb21394191a03efc87b164e16d348b5aac103'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__artifacts.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__artifacts.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1680,7 +1680,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='89e02e1271c7b0c20855ac06d58626c2ab2d8b93104'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__changes.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__changes.json)
+##### <a name='89e02e1271c7b0c20855ac06d58626c2ab2d8b93104'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__changes.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__changes.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1694,7 +1694,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='b9106456d6dab11130237c131d984387ffb0be22105'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__logs.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__logs.json)
+##### <a name='b9106456d6dab11130237c131d984387ffb0be22105'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__logs.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__logs.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1708,7 +1708,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='7e4fb077ba310b6b33fb53df7bf2191dd26e08be106'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__tags.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__tags.json)
+##### <a name='7e4fb077ba310b6b33fb53df7bf2191dd26e08be106'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__tags.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__tags.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1722,7 +1722,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='49534daafa66104b270d494ebb9655a791a5f647107'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__timeline.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__timeline.json)
+##### <a name='49534daafa66104b270d494ebb9655a791a5f647107'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds__knownBuildId__timeline.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds__knownBuildId__timeline.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1736,7 +1736,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='a7e4afe031de90a473f06c2bbbf9fef135995945108'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json)
+##### <a name='a7e4afe031de90a473f06c2bbbf9fef135995945108'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed__top-1.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1750,7 +1750,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='37abe3ae80bad5b663314fabc8b5e50d08cd0165109'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json)
+##### <a name='37abe3ae80bad5b663314fabc8b5e50d08cd0165109'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_definitions-_definitionId__statusFilter-completed_continuationToken-_continuationToken_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1764,7 +1764,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='336c7a1bd2532238709daf8e872a48f62f162fba110'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_tagFilters-myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_builds_tagFilters-myTag.json)
+##### <a name='336c7a1bd2532238709daf8e872a48f62f162fba110'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_builds_tagFilters-myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_builds_tagFilters-myTag.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1778,7 +1778,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='20636ef518e2bbff94d447e599b4feb8b61e1bed111'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_tags.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/GET__build_tags.json)
+##### <a name='20636ef518e2bbff94d447e599b4feb8b61e1bed111'></a> Source: [openpublishing\test\swagger\_data\builds\GET__build_tags.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/GET__build_tags.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1792,7 +1792,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='52722fb89e63ca8557f98bf0d63cafd68fc42fbb112'></a> Source: [openpublishing\test\swagger\_data\builds\PATCH__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/PATCH__build_builds__buildId_.json)
+##### <a name='52722fb89e63ca8557f98bf0d63cafd68fc42fbb112'></a> Source: [openpublishing\test\swagger\_data\builds\PATCH__build_builds__buildId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/PATCH__build_builds__buildId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1806,7 +1806,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='c03a380a407478daebd6a557526cc3a1a8f8d7ea113'></a> Source: [openpublishing\test\swagger\_data\builds\POST__build_builds.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/POST__build_builds.json)
+##### <a name='c03a380a407478daebd6a557526cc3a1a8f8d7ea113'></a> Source: [openpublishing\test\swagger\_data\builds\POST__build_builds.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/POST__build_builds.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1820,7 +1820,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='1ceece2092dc2ad075e6402c34ac4825df110119114'></a> Source: [openpublishing\test\swagger\_data\builds\POST__build_builds__knownBuildId__workitems.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/POST__build_builds__knownBuildId__workitems.json)
+##### <a name='1ceece2092dc2ad075e6402c34ac4825df110119114'></a> Source: [openpublishing\test\swagger\_data\builds\POST__build_builds__knownBuildId__workitems.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/POST__build_builds__knownBuildId__workitems.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1834,7 +1834,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='d717ced9cc454da8a7b9bb7792e32100b6f1778b115'></a> Source: [openpublishing\test\swagger\_data\builds\PUT__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/builds/PUT__build_builds__knownBuildId__tags_myTag.json)
+##### <a name='d717ced9cc454da8a7b9bb7792e32100b6f1778b115'></a> Source: [openpublishing\test\swagger\_data\builds\PUT__build_builds__knownBuildId__tags_myTag.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/builds/PUT__build_builds__knownBuildId__tags_myTag.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1848,7 +1848,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='43ca3750b855c00eeca32ac969ce40260c30bb76116'></a> Source: [openpublishing\test\swagger\_data\definitions\DELETE__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/DELETE__build_definitions__definitionId_.json)
+##### <a name='43ca3750b855c00eeca32ac969ce40260c30bb76116'></a> Source: [openpublishing\test\swagger\_data\definitions\DELETE__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/DELETE__build_definitions__definitionId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1862,7 +1862,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='9528730853a51558de0a3cb5c4a7f27475d3e450117'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions.json)
+##### <a name='9528730853a51558de0a3cb5c4a7f27475d3e450117'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1876,7 +1876,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='5b804b1c42216ac253d1fb2b52f8de4c2ca3466a118'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId_.json)
+##### <a name='5b804b1c42216ac253d1fb2b52f8de4c2ca3466a118'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1890,7 +1890,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='a90b3342f8ffb895a697b34b5786a24e3bf9124a119'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revision-_revision_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revision-_revision_.json)
+##### <a name='a90b3342f8ffb895a697b34b5786a24e3bf9124a119'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revision-_revision_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revision-_revision_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1904,7 +1904,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='7f33d2bafa5f2351e784fa77f7496596d90a0fe2120'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revisions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revisions.json)
+##### <a name='7f33d2bafa5f2351e784fa77f7496596d90a0fe2120'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_definitions__definitionId__revisions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_definitions__definitionId__revisions.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1918,7 +1918,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='2096c80afe4ecd1c8eafe88c9d7cd6fe6b0df22f121'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_options.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/GET__build_options.json)
+##### <a name='2096c80afe4ecd1c8eafe88c9d7cd6fe6b0df22f121'></a> Source: [openpublishing\test\swagger\_data\definitions\GET__build_options.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/GET__build_options.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1932,7 +1932,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='59260f8a090802e53e254743e29c9e1a5cb68772122'></a> Source: [openpublishing\test\swagger\_data\definitions\POST__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/POST__build_definitions.json)
+##### <a name='59260f8a090802e53e254743e29c9e1a5cb68772122'></a> Source: [openpublishing\test\swagger\_data\definitions\POST__build_definitions.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/POST__build_definitions.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1946,7 +1946,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='0d896a94e8e67de6e6e5528359475eb2f3b0eadd123'></a> Source: [openpublishing\test\swagger\_data\definitions\PUT__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitions/PUT__build_definitions__definitionId_.json)
+##### <a name='0d896a94e8e67de6e6e5528359475eb2f3b0eadd123'></a> Source: [openpublishing\test\swagger\_data\definitions\PUT__build_definitions__definitionId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitions/PUT__build_definitions__definitionId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1960,7 +1960,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='c2e863b0ad24f97a6196f914b3cc9d859d502557124'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\DELETE__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/DELETE__build_definitions_templates__templateId_.json)
+##### <a name='c2e863b0ad24f97a6196f914b3cc9d859d502557124'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\DELETE__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/DELETE__build_definitions_templates__templateId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1974,7 +1974,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='5f259f9642dbdc914d91e857de89a1ce6b9d767e125'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates.json)
+##### <a name='5f259f9642dbdc914d91e857de89a1ce6b9d767e125'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1988,7 +1988,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='863f699f835ad0c82a6750c381cf5392db731bee126'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates__templateId_.json)
+##### <a name='863f699f835ad0c82a6750c381cf5392db731bee126'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\GET__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/GET__build_definitions_templates__templateId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2002,7 +2002,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='d4bec81fdc08d1b5c689ed07a03afff450ae0da7127'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\PUT__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/definitionTemplates/PUT__build_definitions_templates__templateId_.json)
+##### <a name='d4bec81fdc08d1b5c689ed07a03afff450ae0da7127'></a> Source: [openpublishing\test\swagger\_data\definitionTemplates\PUT__build_definitions_templates__templateId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/definitionTemplates/PUT__build_definitions_templates__templateId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2016,7 +2016,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='7fd93a2a53c96da5b4dd4009b6e7e31897cada6d128'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_controllers__controllerId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_controllers__controllerId_.json)
+##### <a name='7fd93a2a53c96da5b4dd4009b6e7e31897cada6d128'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_controllers__controllerId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_controllers__controllerId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2030,7 +2030,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='707081d67bb2140dd5daa1d5471d6f437f97acfa129'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_queues.json)
+##### <a name='707081d67bb2140dd5daa1d5471d6f437f97acfa129'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_queues.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2044,7 +2044,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='39ff74a8a5f5428c16e2e8fc0a0b3b0c754b094f130'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_queues__queueId_.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/GET__build_queues__queueId_.json)
+##### <a name='39ff74a8a5f5428c16e2e8fc0a0b3b0c754b094f130'></a> Source: [openpublishing\test\swagger\_data\queues\GET__build_queues__queueId_.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/GET__build_queues__queueId_.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2058,7 +2058,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='61fc789a01c45abfbd76f70110e59447fc9af269131'></a> Source: [openpublishing\test\swagger\_data\queues\POST__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test/swagger/_data/queues/POST__build_queues.json)
+##### <a name='61fc789a01c45abfbd76f70110e59447fc9af269131'></a> Source: [openpublishing\test\swagger\_data\queues\POST__build_queues.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test/swagger/_data/queues/POST__build_queues.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2117,7 +2117,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='ddffaaa647155d9ddc921e0242b65cb6af1f09349'></a> Source: [openpublishing\test-reference\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/test-reference/docfx.json)
+##### <a name='ddffaaa647155d9ddc921e0242b65cb6af1f09349'></a> Source: [openpublishing\test-reference\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/openpublishing/test-reference/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2131,7 +2131,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='e0c784e2c6061a5150f294bf69b83eb1cbff6dac135'></a> Source: [RawModelContentTemplate\ManagedReference.raw.model.json.js](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/RawModelContentTemplate/ManagedReference.raw.model.json.js)
+##### <a name='e0c784e2c6061a5150f294bf69b83eb1cbff6dac135'></a> Source: [RawModelContentTemplate\ManagedReference.raw.model.json.js](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/RawModelContentTemplate/ManagedReference.raw.model.json.js)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2145,7 +2145,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='8621dca17d843c71e33dbc08412cd09e66ebeac8136'></a> Source: [RawModelContentTemplate\ManagedReference.raw.model.json.tmpl](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/RawModelContentTemplate/ManagedReference.raw.model.json.tmpl)
+##### <a name='8621dca17d843c71e33dbc08412cd09e66ebeac8136'></a> Source: [RawModelContentTemplate\ManagedReference.raw.model.json.tmpl](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/RawModelContentTemplate/ManagedReference.raw.model.json.tmpl)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2159,7 +2159,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='d479c01597909ce087df82416d35b5e61fc57b09137'></a> Source: [README.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/README.md)
+##### <a name='d479c01597909ce087df82416d35b5e61fc57b09137'></a> Source: [README.md](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2173,7 +2173,7 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='dc759c477474e1f783be0e5a875dda8319664d93138'></a> Source: [scripts\generateYamlFromSourceCode.ps1](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/scripts/generateYamlFromSourceCode.ps1)
+##### <a name='dc759c477474e1f783be0e5a875dda8319664d93138'></a> Source: [scripts\generateYamlFromSourceCode.ps1](https://github.com/Microsoft/openpublishing-test/blob/1316eb9c6c12509407dd94fe226075a757bfac35/scripts/generateYamlFromSourceCode.ps1)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
