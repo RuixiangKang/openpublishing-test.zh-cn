@@ -99,6 +99,16 @@
       "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1.21fbdd36d696dd2d65638040ac2167fa920f1e11.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "openpublishing\\test\\TOC.md.3e7c3f03dabe44b25d4a3fce9a86887872746e28.HT": {
+      "SourceFilename": "openpublishing\\test\\TOC.md",
+      "XliffHash": "3e7c3f03dabe44b25d4a3fce9a86887872746e28",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\18c17aef29229be5d8254159a6a9208316fe8847.df005164cbe87e2c27baaba99b0acdb23d22e775.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

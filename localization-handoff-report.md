@@ -1,11 +1,31 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/da2ea32e05c1e40a4ad93456f39399a6d1992da6/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#18c17aef29229be5d8254159a6a9208316fe8847133)
 
 ## Item Details
+##### <a name='18c17aef29229be5d8254159a6a9208316fe8847133'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/da2ea32e05c1e40a4ad93456f39399a6d1992da6/openpublishing/test/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/7667ec9f646e0cf5f1ce72cedc2c082e55308102/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
+* Handoff Datetime: 2017-01-25 02:17:49
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* Current Target File: [openpublishing\test\TOC.md](https://github.com/openpublish/openpublishing-test.zh-cn/blob/945925eada2bc4bef914be2ad69be2ec7ee5ae81/openpublishing/test/TOC.md)
+* Current Handback File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/08b0eb2d24adbe2ed3f7480575d1ec14716514c1/ol-handback/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
+* Current Handback Datetime: 2016-06-21 17:49:33
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
