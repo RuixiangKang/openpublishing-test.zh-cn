@@ -129,6 +129,16 @@
       "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\47bc992514bdaec3313ad5bbb54abdc0150c435d.7c5e21a9b3f62012a2632424ed2195869b9b11c4.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "openpublishing\\test\\TOC.md.98654b9790255d740fd44ba15f244938772f6fdb.HT": {
+      "SourceFilename": "openpublishing\\test\\TOC.md",
+      "XliffHash": "98654b9790255d740fd44ba15f244938772f6fdb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\9fc5d0dee16e4f4ff59639d5035ba8afa018fbe9.2f12bfdbb97f83c6508cbec19de060d3f49df463.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
