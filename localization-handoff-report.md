@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/6e02a07cd95a8f159ad41f8cd10269976329ebeb/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#41015c59380a431f24d78f214243b7cebcb995e3133)
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/2db3636aaf457541e9de4afe3d7fda3121b0dc9a/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#47bc992514bdaec3313ad5bbb54abdc0150c435d133)
 
 ## Item Details
-##### <a name='41015c59380a431f24d78f214243b7cebcb995e3133'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/6e02a07cd95a8f159ad41f8cd10269976329ebeb/openpublishing/test/TOC.md)
+##### <a name='47bc992514bdaec3313ad5bbb54abdc0150c435d133'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/2db3636aaf457541e9de4afe3d7fda3121b0dc9a/openpublishing/test/TOC.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/47835b90d63c46e7cae50ec1abc4bd0a400ebb7f/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
-* Handoff Datetime: 2017-02-07 07:33:37
+* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/b244d1c583af34803eb1c4ce11784d858afdc70c/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
+* Handoff Datetime: 2017-02-07 08:31:11
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
