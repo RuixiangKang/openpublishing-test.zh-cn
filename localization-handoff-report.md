@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/60e15255e640840695cdb2caf182d90f0b1b9d5a/openpublishing/test/conceptual/small.md) | HandedOffSuccess | [Details](#ae9bb6b680bde4fc16b80fd2ba30dd6fbc522c6252)
+ [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/2d6aac5144d7fa85213769d4312ea99bfa03328d/openpublishing/test/conceptual/small.md) | HandedOffSuccess | [Details](#7a2f5b43bab914b80eef3c1e33d684cfd9f001c252)
 
 ## Item Details
-##### <a name='ae9bb6b680bde4fc16b80fd2ba30dd6fbc522c6252'></a> Source: [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/60e15255e640840695cdb2caf182d90f0b1b9d5a/openpublishing/test/conceptual/small.md)
+##### <a name='7a2f5b43bab914b80eef3c1e33d684cfd9f001c252'></a> Source: [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/2d6aac5144d7fa85213769d4312ea99bfa03328d/openpublishing/test/conceptual/small.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [small.7784cb202c2cbbbca6538cb14d51a50e91054011.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/8c8bc18618e29e44db4ef461e8e73ff0cebf820d/ol-handoff/openpublish/openpublishing-test.zh-cn/master/small.7784cb202c2cbbbca6538cb14d51a50e91054011.zh-cn.xlf)
-* Handoff Datetime: 2017-05-31 10:15:19
+* Handoff File: [small.7784cb202c2cbbbca6538cb14d51a50e91054011.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/9bd61438a3020e16bf25f19593ea949228ed2e02/ol-handoff/openpublish/openpublishing-test.zh-cn/master/small.7784cb202c2cbbbca6538cb14d51a50e91054011.zh-cn.xlf)
+* Handoff Datetime: 2017-05-31 11:15:40
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
