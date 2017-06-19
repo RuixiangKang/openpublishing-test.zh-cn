@@ -4,171 +4,103 @@
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "f648ec1f7422006668177fb559df4e9060082851",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\faf4e94e98e2d2093813dd92a43e7d10e47b90fc.2264908abe2575010b2aa805429a529f82291fe1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\faf4e94e98e2d2093813dd92a43e7d10e47b90fc.2264908abe2575010b2aa805429a529f82291fe1.xml"
     },
     "openpublishing\\test\\TOC.md.969592ec75e31f4a780ac23320263ffe05d53b4a.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "969592ec75e31f4a780ac23320263ffe05d53b4a",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\c9732ce97a4481bbcb4de96be4e995685d080d3b.299eed05c6c833d450ad30c0b4485d4e09f9e372.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\c9732ce97a4481bbcb4de96be4e995685d080d3b.299eed05c6c833d450ad30c0b4485d4e09f9e372.xml"
     },
     "openpublishing\\test\\conceptual\\ui-components.md.5bb20ecb03a74fd90cd57204d40f29d3aac00c30.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\ui-components.md",
       "XliffHash": "5bb20ecb03a74fd90cd57204d40f29d3aac00c30",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\481f16dfca568b2f4fbe186600a9ad71fd8775d7.b40ceb521c389b42ea95ae7391a286a4734a7f40.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\481f16dfca568b2f4fbe186600a9ad71fd8775d7.b40ceb521c389b42ea95ae7391a286a4734a7f40.xml"
     },
     "openpublishing\\test\\conceptual\\ui-components.md.5a38fa230f270edda000809f7ae75048c70a676a.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\ui-components.md",
       "XliffHash": "5a38fa230f270edda000809f7ae75048c70a676a",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\56b6f173da3639510999bf742b343461793e0a20.554432ed507153a8976887486569c4ecc15e9b8d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\56b6f173da3639510999bf742b343461793e0a20.554432ed507153a8976887486569c4ecc15e9b8d.xml"
     },
     "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md.276ab5baf316565ba86d97af9f757aab3395e1a2.HT": {
       "SourceFilename": "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md",
       "XliffHash": "276ab5baf316565ba86d97af9f757aab3395e1a2",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\3d86747f2905a9e70f401a0ce9e5c382a82e0a0e.bd7fb037748b3765cc6fd5a02e101b587a666dfc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\3d86747f2905a9e70f401a0ce9e5c382a82e0a0e.bd7fb037748b3765cc6fd5a02e101b587a666dfc.xml"
     },
     "openpublishing\\test\\TOC.md.3dc2e6e187694d5af9ec609ececa547d8bce4ac5.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "3dc2e6e187694d5af9ec609ececa547d8bce4ac5",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa.915264134f9555d9443623a78b8a361bf3161b20.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa.915264134f9555d9443623a78b8a361bf3161b20.xml"
     },
     "openpublishing\\test\\conceptual\\long-in-page-toc.md.2670213282f3455ec3b22acff724a9500b1901b1.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\long-in-page-toc.md",
       "XliffHash": "2670213282f3455ec3b22acff724a9500b1901b1",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\ae3c8be17b4223c429f49ff9c5e5613fbc9da4e0.6430134b7058a1549f5daa6f97a62768bd029013.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\ae3c8be17b4223c429f49ff9c5e5613fbc9da4e0.6430134b7058a1549f5daa6f97a62768bd029013.xml"
     },
     "openpublishing\\test\\swagger\\build.md.23a67efaa7c195eebc89cee2fa19c7ded2629de0.HT": {
       "SourceFilename": "openpublishing\\test\\swagger\\build.md",
       "XliffHash": "23a67efaa7c195eebc89cee2fa19c7ded2629de0",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\acf9dfc896878b414c73c4f0072d543111235b22.6e482c2c680763cb99a9d06530faca7c6d52746a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\acf9dfc896878b414c73c4f0072d543111235b22.6e482c2c680763cb99a9d06530faca7c6d52746a.xml"
     },
     "openpublishing\\azure-docs-pr\\index.md.c64d300c822f10ebec76c44ca245536021b976d6.HT": {
       "SourceFilename": "openpublishing\\azure-docs-pr\\index.md",
       "XliffHash": "c64d300c822f10ebec76c44ca245536021b976d6",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\fc3f3b1c6459cc48b7c2cc06369569cfd7883f71.2f1956e1e3a4b18420a9851b0c50999a8391874c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\fc3f3b1c6459cc48b7c2cc06369569cfd7883f71.2f1956e1e3a4b18420a9851b0c50999a8391874c.xml"
     },
     "openpublishing\\azure-docs-pr\\TOC.md.4082fce269510cceabdb7c5ec0715c3bbaef1200.HT": {
       "SourceFilename": "openpublishing\\azure-docs-pr\\TOC.md",
       "XliffHash": "4082fce269510cceabdb7c5ec0715c3bbaef1200",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1.21fbdd36d696dd2d65638040ac2167fa920f1e11.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1.21fbdd36d696dd2d65638040ac2167fa920f1e11.xml"
     },
     "openpublishing\\test\\TOC.md.3e7c3f03dabe44b25d4a3fce9a86887872746e28.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "3e7c3f03dabe44b25d4a3fce9a86887872746e28",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\18c17aef29229be5d8254159a6a9208316fe8847.df005164cbe87e2c27baaba99b0acdb23d22e775.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\18c17aef29229be5d8254159a6a9208316fe8847.df005164cbe87e2c27baaba99b0acdb23d22e775.xml"
     },
     "openpublishing\\test\\TOC.md.3d4f77ebd9005cb7f08f4ed0946dd6f99c17a128.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "3d4f77ebd9005cb7f08f4ed0946dd6f99c17a128",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\41015c59380a431f24d78f214243b7cebcb995e3.caea6939d3c5cc669447a9ade878fa4434a50e9b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\41015c59380a431f24d78f214243b7cebcb995e3.caea6939d3c5cc669447a9ade878fa4434a50e9b.xml"
     },
     "openpublishing\\test\\TOC.md.0c456168cfb384c99bca71b9e13263f9df632b39.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "0c456168cfb384c99bca71b9e13263f9df632b39",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\47bc992514bdaec3313ad5bbb54abdc0150c435d.7c5e21a9b3f62012a2632424ed2195869b9b11c4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\47bc992514bdaec3313ad5bbb54abdc0150c435d.7c5e21a9b3f62012a2632424ed2195869b9b11c4.xml"
     },
     "openpublishing\\test\\TOC.md.98654b9790255d740fd44ba15f244938772f6fdb.HT": {
       "SourceFilename": "openpublishing\\test\\TOC.md",
       "XliffHash": "98654b9790255d740fd44ba15f244938772f6fdb",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\9fc5d0dee16e4f4ff59639d5035ba8afa018fbe9.2f12bfdbb97f83c6508cbec19de060d3f49df463.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\9fc5d0dee16e4f4ff59639d5035ba8afa018fbe9.2f12bfdbb97f83c6508cbec19de060d3f49df463.xml"
     },
     "openpublishing\\test\\conceptual\\small.md.89363a98bc452ddd4779523a9f0f86bc639716e0.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\small.md",
       "XliffHash": "89363a98bc452ddd4779523a9f0f86bc639716e0",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\d3980ddb47ac1ec0bcb3f68058bd7281d2176a0f.8cffc9255d4c69f3ff4a1786a036e07be595a0db.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\d3980ddb47ac1ec0bcb3f68058bd7281d2176a0f.8cffc9255d4c69f3ff4a1786a036e07be595a0db.xml"
     },
     "openpublishing\\test\\conceptual\\small.md.b6259cc8a8f8e4fe0ce587e97297985750b762ca.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\small.md",
       "XliffHash": "b6259cc8a8f8e4fe0ce587e97297985750b762ca",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\ae9bb6b680bde4fc16b80fd2ba30dd6fbc522c62.d51b59d6e85cd3842dd34d003905050a465c2dfb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\ae9bb6b680bde4fc16b80fd2ba30dd6fbc522c62.d51b59d6e85cd3842dd34d003905050a465c2dfb.xml"
     },
     "openpublishing\\test\\conceptual\\small.md.ec32dee72006c0b81af115513e3014ef387ed317.HT": {
       "SourceFilename": "openpublishing\\test\\conceptual\\small.md",
       "XliffHash": "ec32dee72006c0b81af115513e3014ef387ed317",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\7a2f5b43bab914b80eef3c1e33d684cfd9f001c2.63801a754cf54901b18b4e559d2f40c448a87b7f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.zh-cn\\master\\7a2f5b43bab914b80eef3c1e33d684cfd9f001c2.63801a754cf54901b18b4e559d2f40c448a87b7f.xml"
     }
   }
 }
